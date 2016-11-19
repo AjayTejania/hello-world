@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="strng1">BMI</string>
+    <string name="strng2">Calculator</string>
+    <string name="strng3">Weight</string>
+    <string name="strng4">Height</string>
+    <string name="str1">Enter weight in Kg</string>
+    <string name="str2">Enter height in cm</string>
+    <string name="btn">Calculate</string>
+    <string name="btn2">BMI Classification</string>
+    <string name="rd1">cm</string>
+    <string name="rd2">FT+IN</string>
+
+</resources>
